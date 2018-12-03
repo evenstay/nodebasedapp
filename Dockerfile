@@ -1,2 +1,2 @@
 FROM siwatinc/ubuntubaseimage_unraid:latest
-RUN apt-get install node.js npm
+RUN apt-get -y install node.js npm
